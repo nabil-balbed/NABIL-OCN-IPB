@@ -1,3 +1,3 @@
-# Physical Oceanography Practical Activity
+# Physical Oceanography Excercise 
 
-## This repository is a bunch of code to assist graduate student to understand physical oceanography
+## This repository is a bunch of code to understand physical oceanography
